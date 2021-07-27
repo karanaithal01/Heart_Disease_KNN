@@ -1,9 +1,9 @@
 # Heart_Disease_KNN
 
-A Heart disease preiction model using K Nearest Neighbour Algorithm 
-This model emhasizes Data Standardization 
+A Heart disease prediction model using K Nearest Neighbour Algorithm 
+This model emphasizes Data Standardization
 
-It calculates th accuracy of the model before and after standardizaton
+It calculates the accuracy of the model before and after standardization
 
-Before Standardization acuracy was 63.93 %
-After Standardization the accuracy Increased to 81.97%
+Before standardization acuracy was 63.93 %
+After standardization the accuracy increased to 81.97%
